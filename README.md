@@ -1,7 +1,9 @@
 # Build ENV #
 
 virtualenv -p python3.8 venv
+
 source ./venv/source/active
+
 pip install -r pip.txt
 
 
