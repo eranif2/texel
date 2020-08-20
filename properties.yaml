@@ -1,0 +1,5 @@
+
+image_name: 'nginxdate'
+
+continer_port: 8080
+
